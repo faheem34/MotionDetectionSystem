@@ -1,0 +1,4 @@
+To make the program efficently working please use the same version of pandas numpy and cv2 thankyou!
+once the application has started and detected objects it will auto-matically save csv file to the same directory
+in oder to save videos the 'Recordings' folder must be created otherwise system will fail to save files.
+:))
